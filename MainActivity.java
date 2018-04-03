@@ -33,7 +33,7 @@ import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.auth.GoogleAuthProvider;
 
-
+//Sign - in with Google using Google APIs
 public class MainActivity extends AppCompatActivity {
     private SignInButton mGoogleButton;
     private static final int RC_SIGN_IN = 1;
